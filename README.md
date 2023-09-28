@@ -1,4 +1,4 @@
-# Hi ! Welcome on my page, here is your coffee (>'-')> ☕️
+# Hi ! Welcome on my page, a coffee for you ! 
 </br>
 
 ![Gif](res/lofi.gif)
