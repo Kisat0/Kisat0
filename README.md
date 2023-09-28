@@ -36,14 +36,7 @@ I regularly work on several personal projects that you can find here, as well as
 
 </br>
 
-## Some stats 📊
 </br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisat0&show_icons=true&theme=merko)
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0ku&layout=compact&theme=merko)](https://github.com/Kisat0)
 
 ![](https://komarev.com/ghpvc/?username=Kisat0&style=for-the-badge&color=red)
 </br>
